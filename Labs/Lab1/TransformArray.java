@@ -1,6 +1,6 @@
 package Labs.Lab1;//package LABS1;
 //
-//import Aud1.Array.Array;
+//import Aud1.Array.Array.Array;
 //
 //import java.util.Scanner;
 //
